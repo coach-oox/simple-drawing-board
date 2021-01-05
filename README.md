@@ -2,6 +2,10 @@
 
 A simple web drawing board made with Vanilla JS.
 
+## Demo
+
+[Try It!](https://coach-oox.github.io/simple-drawing-board/)
+
 ## Preview
 
 ![](./preview.png)
