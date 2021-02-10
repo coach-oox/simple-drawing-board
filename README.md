@@ -1,6 +1,6 @@
 # Simple Drawing Board
 
-A simple web drawing board made with Vanilla JS. [[Demo]](https://coach-oox.github.io/simple-drawing-board/)
+A simple web drawing board made with Vanilla JS. [[Demo]](https://coach-oox.github.io/simple-drawing-board/)  
 🎈 Vanilla JS Project for Beginners.
 
 ## Preview
