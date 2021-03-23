@@ -5,7 +5,7 @@ A simple web drawing board made with Vanilla JS. [[Demo]](https://coach-oox.gith
 
 ## Preview
 
-![](./preview.png)
+![](./images/preview.png)
 
 ## Features
 
