@@ -1,7 +1,10 @@
-# Simple Drawing Board
+Vanilla (Pure) Javascript project for beginners.  
+Check more projects [here](https://github.com/coachoox/vanilla-js-projects).
 
-A simple web drawing board made with Vanilla JS. [[Demo]](https://coach-oox.github.io/simple-drawing-board/)  
-🎈 Vanilla JS Project for Beginners.
+# Drawing Board
+
+A simple web drawing board made with Vanilla JS.  
+[[Demo]](https://coachoox.github.io/js-drawing-canvas/)  
 
 ## Preview
 
